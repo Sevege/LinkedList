@@ -1,0 +1,83 @@
+150 widgets at 1.00 each
+*************************************
+130 widgets at 2.00 each
+*************************************
+145 widgets sold
+145 at 1.00 each	Sales:$145.00
+Total Sales:$145.00
+*************************************
+50 widgets at 2.50 each
+*************************************
+75 widgets sold
+5 at 1.00 each	Sales:$5.00
+70 at 2.00 each	Sales:$140.00
+Total Sales:$145.00
+*************************************
+180 widgets sold
+60 at 2.00 each	Sales:$120.00
+50 at 2.50 each	Sales:$125.00
+remainder of 70 Widgets not available
+Total Sales:$245.00
+*************************************
+50 widgets at 4.00 each
+*************************************
+30 widgets at 5.00 each
+*************************************
+40 widgets at 5.50 each
+*************************************
+30% off for the next two customers
+*************************************
+50 widgets sold
+50 at 4.00 each	Sales:$200.00
+Promotion Apply
+Total Sales:$140.00
+*************************************
+30 widgets sold
+30 at 5.00 each	Sales:$150.00
+Promotion Apply
+Total Sales:$105.00
+*************************************
+50 widgets at 6.00 each
+*************************************
+265 widgets at 10.00 each
+*************************************
+60 widgets sold
+40 at 5.50 each	Sales:$220.00
+20 at 6.00 each	Sales:$120.00
+Total Sales:$340.00
+*************************************
+50% off for the next two customers
+*************************************
+100 widgets sold
+30 at 6.00 each	Sales:$180.00
+70 at 10.00 each	Sales:$700.00
+Promotion Apply
+Total Sales:$440.00
+*************************************
+70 widgets sold
+70 at 10.00 each	Sales:$700.00
+Promotion Apply
+Total Sales:$350.00
+*************************************
+175 widgets sold
+125 at 10.00 each	Sales:$1250.00
+remainder of 50 Widgets not available
+Total Sales:$1250.00
+*************************************
+40 widgets at 14.00 each
+*************************************
+75 widgets at 15.00 each
+*************************************
+110 widgets sold
+40 at 14.00 each	Sales:$560.00
+70 at 15.00 each	Sales:$1050.00
+Total Sales:$1610.00
+*************************************
+30 widgets at 16.00 each
+*************************************
+40 widgets at 18.00 each
+*************************************
+Widgets left in stock
+5 widgets at 15.00 each
+30 widgets at 16.00 each
+40 widgets at 18.00 each
